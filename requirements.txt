@@ -1,0 +1,9 @@
+gspread
+oauth2client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pandas
+streamlit
+geopy>=2.0.0
+scikit-learn>=1.0.0
