@@ -8,3 +8,5 @@ streamlit
 geopy>=2.0.0
 scikit-learn>=1.0.0
 gspread_dataframe
+faiss-cpu
+faiss-gpu
