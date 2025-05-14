@@ -4,6 +4,7 @@ import pandas as pd
 import faiss
 from sentence_transformers import SentenceTransformer
 
+
 # ------------------------------------------------------------------ #
 # 1) Load embedding model (unused for manual scoring)
 # ------------------------------------------------------------------ #
